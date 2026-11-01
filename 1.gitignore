@@ -1,1 +1,7 @@
-
+1.gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+git add .gitignore
+git commit -m "chore: add .gitignore to exclude temporary files"
